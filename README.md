@@ -1,4 +1,4 @@
-# expense-tracker-api
+# Expense-Tracker-Rest-Api
 
 REST API for tracking expenses.
 
@@ -9,8 +9,8 @@ Apart from this, we have used JSON Web Token (JWT) to add authentication. Using 
 
 1. **Clone the repo from GitHub**
    ```sh
-   git clone https://github.com/pairlearning/expense-tracker-api.git
-   cd expense-tracker-api
+   git clone https://github.com/Kiz9R/Expense-Tracker-Rest-Api.git
+   cd Expense-Tracker-Reat-Api
    ```
 2. **Spin-up PostgreSQL database instance**
 
